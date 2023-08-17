@@ -18,3 +18,4 @@
    <a href="https://twitter.com/The__Good__Guy">
     <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardik-malani&label=Profile%20views&color=FF00FF&style=flat" alt="hardik-malani" /> </p>
