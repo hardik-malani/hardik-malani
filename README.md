@@ -15,6 +15,4 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://devpost.com/hardik-malani">
     <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/devpost"></a>
-   <a href="https://twitter.com/The__Good__Guy">
-    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/twitter"></a>
 </p>
